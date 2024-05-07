@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Mac OS
+.DS_Store
+
+# Dotnet
+bin/
+obj/
